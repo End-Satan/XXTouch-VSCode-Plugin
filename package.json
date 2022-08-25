@@ -50,7 +50,8 @@
 		"diff": "^5.0.0",
 		"lua-fmt-ext": "^3.0.5",
 		"tar": "^6.0.5",
-		"vscode-languageclient": "^7.0.0"
+		"vscode-languageclient": "^7.0.0",
+		"cli-highlight": "git+https://github.com/Lessica/cli-highlight.git#cbc5fe023b9b329ceaed8d16ad707e44b5464ea9"
 	},
 	"contributes": {
 		"configuration": {
